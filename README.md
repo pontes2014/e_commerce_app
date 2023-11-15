@@ -1,5 +1,5 @@
 # e_commerce_app
- Ola o projeto é um ecommerce utilizando provider para o gerenciamento de estado,segue as imagens abaixo mostrando o aplicativo.
+ Ola o projeto é um ecommerce utilizando provider para o gerenciamento de estado, segue as imagens abaixo mostrando o aplicativo.
  1. <img src="https://github.com/pontes2014/e_commerce_app/assets/91500779/7d1c9612-1dc6-45b6-a43b-20a2a41c73cc" width="300">
 2. <img src="https://github.com/pontes2014/e_commerce_app/assets/91500779/c186be2a-9289-49e0-9293-f7895ddf3bdf" width="300">
 3. <img src="https://github.com/pontes2014/e_commerce_app/assets/91500779/7ce04d6c-f6bb-4b0a-b1c6-b5140f566de7" width="300">
